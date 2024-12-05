@@ -1,0 +1,12 @@
+<div class="container mt-5">
+  <h1 class="text-center">Servicios de la Empresa</h1>
+  <div class="row">
+    <!-- Contenedor que usa CSS Grid para ordenar los servicios -->
+    <div class="servicios-container">
+      <div *ngFor="let servicio of servicios" class="servicio-card">
+        <h3>{{ servicio.nombre }}</h3>
+        <p>{{ servicio.descripcion }}</p>
+      </div>
+    </div>
+  </div>
+</div>

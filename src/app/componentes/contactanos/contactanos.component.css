@@ -1,0 +1,13 @@
+.tecnicos .card {
+    margin: 10px 0;
+  }
+  
+  .tecnicos .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .tecnicos .card-body {
+    text-align: center;
+  }
+  
