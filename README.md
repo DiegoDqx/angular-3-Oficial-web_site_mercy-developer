@@ -22,4 +22,4 @@ _Abrir en terminal (raiz del proyecto) en comandpromp o gitbash y ejecutar_
 
     Puedes utilizar los iconos de boostrap [Ver Documentación](www.icons.getbootstrap.com)
     Enlace: https://icons.getbootstrap.com/
-    ejemplo (insertar en HTML): <i class="bi bi-trash"></i>
+    ejemplo (insertar en HTML): <i class="bi bi-trash"></i>Pequeña modificación
